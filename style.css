@@ -2,6 +2,10 @@ body {
     background: rgb(80, 136, 173);
 }
 
+#foto{
+    text-align: center;
+}
+
 h1 {
     text-align: center;
 }
