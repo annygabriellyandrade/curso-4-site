@@ -1,9 +1,20 @@
 header{
     background-color: beige;
 }
+
+h1 {
+    display: inline;
+}
+
+
  
 #logo {
     width: 250px;
+
+    nav {
+        display: inline;
+
+    }
 }
 nav li {
     display: inline;
