@@ -1,6 +1,11 @@
 header{
     background-color: beige;
 }
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
 
 h1 {
     display: inline;
