@@ -45,7 +45,7 @@ nav a {
 .produtos li{
     display: inline-block;
     text-align: center;
-    border-color:bisque ;
+    border-color:rgb(252, 225, 193) ;
     border-width:3px ;
     border-style:solid ;
     margin: 10px;
