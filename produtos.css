@@ -55,5 +55,11 @@ nav a {
 .produtos h2 {
     font-size: 25px;
     font-weight: bold;
+    padding-bottom: 10px;
 
+}
+
+.produtos li p {
+    margin-top: 10px;
+    font-weight: 25px;
 }
