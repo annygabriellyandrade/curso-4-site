@@ -36,7 +36,7 @@ nav a {
     text-decoration: none;
 }
 .produtos{
-    width: 1058px;
+    width: 1136px;
     margin: 0 auto;
     padding: 50px 0;
 
@@ -45,6 +45,11 @@ nav a {
 .produtos li{
     display: inline-block;
     text-align: center;
+    border-color:bisque ;
+    border-width:3px ;
+    border-style:solid ;
+    margin: 10px;
+    padding: 20px 0;
     
 }
 .item {
@@ -61,5 +66,5 @@ nav a {
 
 .produtos li p {
     margin-top: 10px;
-    font-weight: 25px;
+    font-size: 18px;
 }
