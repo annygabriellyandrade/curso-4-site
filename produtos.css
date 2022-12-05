@@ -36,7 +36,9 @@ nav a {
     text-decoration: none;
 }
 .produtos{
+    width: 1058px;
     margin: 0 auto;
+
 }
 
 .produtos li{
